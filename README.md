@@ -1,10 +1,10 @@
+ <!-- 🙋‍♂️ -->
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Riyan <img src='https://i.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.webp' align='center' width="45px" height="45px"></h1>
+<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohd Riyan <img src='https://i.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.webp' align='center' width="45px" height="45px"></h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-
-## 🙋‍♂️ About Me
+## <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-man-waving-72dpi-forPersonalUseOnly.gif" width="32px"> About Me
 
 - 🔭 I’m currently working on **[E-shop](https://github.com/Ri-yan/E-shop)**
 
@@ -17,11 +17,14 @@
 <!-- - 📫 How to reach me mohdriyan08011995@gmail.com -->
 
 - ⚡ Fun fact **I play games and watch movies very often.**
+  
+- 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mohd-riyan-0330b4225//)**
 <br/>
 <br/>
 
 ## <img align="center" src="https://media0.giphy.com/media/hs1qpmnmisAscX9FxR/giphy.gif?cid=ecf05e473s2rmlg4yvpgnzrsyfpyqofoptwxqnspuvz80yhb&rid=giphy.gif&ct=s" width="60px">Languages and Tools:
 
+<br/>
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -62,10 +65,11 @@
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+  <br/>
+<p align="center">
   <img  src="https://i.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.webp" style="float:center" width="60px">
+</p>
 
-<br/>
 <br/>
 
 <a href="https://github.com/Ri-yan/github-readme-activity-graph"><img alt="Mohd Riyan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ri-yan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
