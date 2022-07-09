@@ -1,7 +1,7 @@
  <!-- 🙋‍♂️ -->
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohd Riyan <img src='https://i.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.webp' align='center' width="45px" height="45px"></h1>
+<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Mohd Riyan <img src='https://i.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.webp' align='center' width="45px" height="45px"></h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 ## <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-man-waving-72dpi-forPersonalUseOnly.gif" width="32px"> About Me
