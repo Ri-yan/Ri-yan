@@ -4,7 +4,7 @@
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Mohd Riyan <img src='https://i.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.webp' align='center' width="45px" height="45px"></h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-## <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-man-waving-72dpi-forPersonalUseOnly.gif" width="32px"> About Me
+## <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-man-waving-72dpi-forPersonalUseOnly.gif" height="32px" width="32px"> About Me
 
 - 🔭 I’m currently working on **[E-shop](https://github.com/Ri-yan/E-shop)**
 
@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-## <img align="center" src="https://media0.giphy.com/media/hs1qpmnmisAscX9FxR/giphy.gif?cid=ecf05e473s2rmlg4yvpgnzrsyfpyqofoptwxqnspuvz80yhb&rid=giphy.gif&ct=s" width="60px">Languages and Tools:
+## <img align="center" src="https://media0.giphy.com/media/hs1qpmnmisAscX9FxR/giphy.gif?cid=ecf05e473s2rmlg4yvpgnzrsyfpyqofoptwxqnspuvz80yhb&rid=giphy.gif&ct=s" height="50px" width="60px">Languages and Tools:
 
 <br/>
 <p align="center"> 
