@@ -6,7 +6,7 @@
 
 ## <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-man-waving-72dpi-forPersonalUseOnly.gif" height="32px" width="32px"> About Me
 
-- 🔭 I’m currently working on **[Blood Sugar Diary]([https://github.com/Ri-yan/E-shop](https://bloodsugar-diary.web.app/))**
+- 🔭 I’m currently working on **[Blood Sugar Diary]([https://bloodsugar-diary.web.app/])**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
