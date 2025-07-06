@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://ri-yan.github.io/My-Profile/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mriyan.in)**
 
 <!-- - 📫 How to reach me mohdriyan08011995@gmail.com -->
 
